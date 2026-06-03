@@ -17,10 +17,10 @@ Big data analysis and predictive modeling project developed during the 33rd POSC
 All contributors equally participated in this project.
 
 
-- [Name](https://github.com/PrintMini)
-- [Name](https://github.com/YeJinPaark)
-- [Name](https://github.com/JIHYUN2EE)
-- [Name](https://github.com/jjwdragon100-lang)
+- [Mini Kim](https://github.com/PrintMini)
+- [Yejin Park](https://github.com/YeJinPaark)
+- [Ji Hyun Lee](https://github.com/JIHYUN2EE)
+- [Ji Won Jeong](https://github.com/jjwdragon100-lang)
 
 <a href="#top">Back to top</a>
 
