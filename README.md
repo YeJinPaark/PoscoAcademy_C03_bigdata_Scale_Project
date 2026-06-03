@@ -7,10 +7,6 @@ Big data analysis and predictive modeling project developed during the 33rd POSC
 
 > 💡 **위 이미지를 클릭**하시면 전체 PDF 발표 자료를 확인하실 수 있습니다.
 
-<a href="#top">Back to top</a>
-
-
-
 
 
 ## Contributors
@@ -22,7 +18,6 @@ All contributors equally participated in this project.
 - [Ji Hyun Lee](https://github.com/JIHYUN2EE)
 - [Ji Won Jeong](https://github.com/jjwdragon100-lang)
 
-<a href="#top">Back to top</a>
 
 
 ## Contributors
@@ -40,12 +35,14 @@ All contributors equally participated in this project.
   <img src="https://github.com/YeJinPaark.png" width="50px" style="border-radius:50%"/>
 </a>
 
-<a href="#top">Back to top</a>
+
+
 
 ## Contact
-Mini Kim - mini.mh.kim@gmail.com
-Yehjin Park - yejinpark2234@gmail.com
-Ji Hyun Lee - chiiclaro@gmail.com
+
+Mini Kim - mini.mh.kim@gmail.com  
+Yehjin Park - yejinpark2234@gmail.com  
+Ji Hyun Lee - chiiclaro@gmail.com  
 Ji Won Jeong - jjwdragon100@naver.com
 
 <a href="#top">Back to top</a>
