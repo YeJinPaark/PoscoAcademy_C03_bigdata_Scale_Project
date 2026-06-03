@@ -18,10 +18,6 @@ All contributors equally participated in this project.
 - [Ji Hyun Lee](https://github.com/JIHYUN2EE)
 - [Ji Won Jeong](https://github.com/jjwdragon100-lang)
 
-
-
-## Contributors
-
 <a href="https://github.com/PrintMini">
   <img src="https://github.com/PrintMini.png" width="50px" style="border-radius:50%"/>
 </a>
